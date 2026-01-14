@@ -55,3 +55,7 @@ Thumbs.db
 # System
 # ===============================
 .env
+
+
+.virtual_documents/
+.ipynb_checkpoints/

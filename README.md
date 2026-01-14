@@ -1,4 +1,4 @@
-Credit Wise Loan System
+# Credit Wise Loan System
 📌 Project Overview
 
 The Credit Wise Loan System is a Machine Learning–based web application designed to predict loan approval outcomes based on applicant financial and demographic information.
